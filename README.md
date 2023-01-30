@@ -17,10 +17,12 @@ Here is one example of captions for the training images, which is pretty reasona
 
 ![model architecture](https://github.com/noiper/Image-Captioning/blob/main/src/example1.png)
 
-Caption: A dog and a dog are in the snow.
+Generated Caption: A dog and a dog are in the snow.
 
 Here is one example of captions for the development images. Although not good as the training image, it still makes much sense.
 
 ![model architecture](https://github.com/noiper/Image-Captioning/blob/main/src/example2.png)
 
-Caption: 'A man in a blue shirt and a woman in a white shirt.
+Generated Caption: A man in a blue shirt and a woman in a white shirt.
+
+Thank you!
